@@ -2,6 +2,9 @@
 
 A Ruby gem for the [FastBound](https://fastbound.com) firearms compliance API.
 
+Click here to view the [Fastbound API Documentation](https://cloud.fastbound.com/swagger/index.html).
+
+
 ## Installation
 
 Add to your Gemfile:
